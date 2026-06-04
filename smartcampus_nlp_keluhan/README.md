@@ -47,3 +47,5 @@ WiFi kampus sering mati saat jam kuliah,Jaringan,Tinggi
 - Sedang
 - Tinggi
 
+## Catatan
+Dataset di project ini masih dummy. Gunakan untuk prototype awal, lalu ganti dengan data hasil pengumpulan kelompok.
