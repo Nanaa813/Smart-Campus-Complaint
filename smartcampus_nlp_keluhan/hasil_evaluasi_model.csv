@@ -1,0 +1,9 @@
+target,algorithm,accuracy
+kategori,Naive Bayes,1.0
+kategori,Logistic Regression,1.0
+kategori,Linear SVM,1.0
+kategori,Random Forest,0.9853
+prioritas,Naive Bayes,0.8088
+prioritas,Logistic Regression,0.8529
+prioritas,Linear SVM,1.0
+prioritas,Random Forest,0.9412
