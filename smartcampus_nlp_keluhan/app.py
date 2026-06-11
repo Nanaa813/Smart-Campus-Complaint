@@ -1,4 +1,3 @@
-```python
 from pathlib import Path
 
 import joblib
@@ -13,9 +12,6 @@ st.set_page_config(
     layout="centered"
 )
 
-
-# Path dibuat berdasarkan lokasi file app.py
-# Cara ini aman untuk lokal dan Streamlit Cloud
 BASE_DIR = Path(__file__).resolve().parent
 
 MODEL_DIR = BASE_DIR / "models"
@@ -199,4 +195,3 @@ st.divider()
 st.caption(
     "Demo tugas Machine Learning, NLP, dan Smart Campus."
 )
-```
