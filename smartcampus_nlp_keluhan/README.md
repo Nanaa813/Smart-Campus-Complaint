@@ -24,9 +24,6 @@ python train_model.py
 3. Jalankan aplikasi:
 streamlit run app.py
 
-## Cara mengganti dataset
-Ganti isi file data_keluhan_dummy.csv dengan data asli kelompok.
-
 Format kolom wajib:
 keluhan,kategori,prioritas
 
