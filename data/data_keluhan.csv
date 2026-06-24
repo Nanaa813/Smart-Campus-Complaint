@@ -1,0 +1,141 @@
+program_studi,angkatan,kategori,keluhan,prioritas,tingkat_gangguan,tingkat_urgensi,lokasi_keluhan
+Teknik Geologi,2023,Fasilitas,Kondisi toilet di Gazebo kadang tidak mendukung perkuliahan.,Rendah,2,2,Laboratorium
+Kimia,2022,Fasilitas,Kondisi speaker di Gedung C kadang tidak mendukung perkuliahan.,Rendah,1,2,Kantin
+Ilmu Komputer,2023,Fasilitas,kursi di Laboratorium kadang kurang optimal sehingga kelas terasa kurang nyaman.,Rendah,1,2,Gazebo
+Ilmu Komputer,2025,Fasilitas,kursi di Gazebo agak kurang optimal sehingga kelas terasa kurang nyaman.,Rendah,1,1,Gedung A
+Teknik Geologi,2022,Fasilitas,meja di Gedung B kadang kurang optimal sehingga kelas terasa kurang nyaman.,Rendah,1,2,Gedung C
+Bioteknologi,2023,Fasilitas,Mohon kursi di Gedung A dicek lagi karena masih sering mengganggu kegiatan belajar.,Sedang,3,4,Laboratorium
+Teknik Pertambangan,2022,Fasilitas,Kondisi lampu kelas di Gedung B cukup tidak mendukung perkuliahan.,Sedang,4,4,Gedung A
+Statistika,2022,Fasilitas,Mohon kipas angin di Gedung A dicek lagi karena cukup mengganggu kegiatan belajar.,Sedang,3,4,Gedung C
+Biologi,2025,Fasilitas,Mohon colokan listrik di Gazebo dicek lagi karena sering mengganggu kegiatan belajar.,Sedang,4,4,Gazebo
+Ilmu Komputer,2025,Fasilitas,kipas angin di Gedung D lumayan bermasalah dan perlu perbaikan.,Sedang,3,4,Laboratorium
+Teknik Pertambangan,2025,Fasilitas,speaker di Gazebo lumayan bermasalah dan perlu perbaikan.,Sedang,4,4,Gedung B
+Ilmu Komputer,2024,Fasilitas,Kondisi kipas angin di Gedung C masih sering tidak mendukung perkuliahan.,Sedang,4,4,Gedung A
+Teknik Pertambangan,2025,Fasilitas,lampu kelas di Gazebo benar-benar kurang optimal sehingga kelas terasa kurang nyaman. Mohon segera ada perbaikan.,Tinggi,4,4,Gedung D
+Statistika,2024,Fasilitas,Kondisi papan tulis di Gedung A parah tidak mendukung perkuliahan.,Tinggi,4,4,Kantin
+Bioteknologi,2022,Fasilitas,lampu kelas di Gedung C parah bermasalah dan perlu perbaikan.,Tinggi,4,4,Kantin
+Kimia,2022,Fasilitas,Kondisi speaker di Laboratorium parah tidak mendukung perkuliahan.,Tinggi,5,5,Laboratorium
+Kimia,2022,Fasilitas,kursi di Perpustakaan benar-benar bermasalah dan perlu perbaikan.,Tinggi,4,4,Perpustakaan
+Kimia,2025,Fasilitas,kursi di Gedung D benar-benar kurang optimal sehingga kelas terasa kurang nyaman.,Tinggi,5,5,Gedung A
+Ilmu Komputer,2022,Fasilitas,lampu kelas di Gedung C mendesak bermasalah dan perlu perbaikan. Mohon segera ada perbaikan.,Tinggi,5,5,Gedung D
+Bioteknologi,2022,Fasilitas,Mohon colokan listrik di Kantin dicek lagi karena sangat mengganggu kegiatan belajar.,Tinggi,5,5,Gedung A
+Bioteknologi,2025,Jaringan,Jangkauan jaringan di Gedung C kadang kurang luas dan sering tidak tersambung.,Rendah,1,2,Gedung C
+Bioteknologi,2024,Jaringan,Jangkauan jaringan di Laboratorium masih kurang luas dan sering tidak tersambung.,Rendah,1,1,Perpustakaan
+Ilmu Komputer,2023,Jaringan,Koneksi internet di Gedung B agak tidak stabil sehingga sulit akses LMS.,Rendah,2,1,Gedung A
+Kimia,2022,Jaringan,Internet kampus di Gedung C masih bermasalah terutama saat jam sibuk.,Rendah,1,1,Gedung A
+Teknik Pertambangan,2022,Jaringan,WiFi di Gazebo cukup lambat dan sering putus saat kuliah berlangsung.,Sedang,4,4,Gedung B
+Kimia,2022,Jaringan,Jangkauan jaringan di Gedung A masih sering kurang luas dan sering tidak tersambung.,Sedang,3,4,Gedung A
+Teknik Pertambangan,2024,Jaringan,Koneksi internet di Gedung A lumayan tidak stabil sehingga sulit akses LMS.,Sedang,4,4,Kantin
+Teknik Pertambangan,2023,Jaringan,Internet kampus di Kantin cukup bermasalah terutama saat jam sibuk.,Sedang,3,4,Gedung A
+Teknik Geologi,2023,Jaringan,Jangkauan jaringan di Kantin masih sering kurang luas dan sering tidak tersambung.,Sedang,4,4,Kantin
+Bioteknologi,2024,Jaringan,Koneksi internet di Perpustakaan cukup tidak stabil sehingga sulit akses LMS.,Sedang,3,3,Laboratorium
+Teknik Pertambangan,2022,Jaringan,Jangkauan jaringan di Perpustakaan lumayan kurang luas dan sering tidak tersambung.,Sedang,3,4,Gazebo
+Teknik Pertambangan,2024,Jaringan,WiFi di Gedung A mendesak lambat dan sering putus saat kuliah berlangsung.,Tinggi,5,4,Laboratorium
+Teknik Geologi,2022,Jaringan,Koneksi internet di Kantin mendesak tidak stabil sehingga sulit akses LMS.,Tinggi,4,5,Gedung A
+Teknik Geologi,2024,Jaringan,Internet kampus di Gedung A mendesak bermasalah terutama saat jam sibuk.,Tinggi,5,4,Gedung A
+Statistika,2024,Jaringan,Koneksi internet di Perpustakaan benar-benar tidak stabil sehingga sulit akses LMS. Ini sangat menghambat akses materi kuliah.,Tinggi,4,4,Gedung B
+Bioteknologi,2024,Jaringan,Koneksi internet di Gedung D sangat tidak stabil sehingga sulit akses LMS. Ini sangat menghambat akses materi kuliah.,Tinggi,4,5,Perpustakaan
+Kimia,2025,Jaringan,Internet kampus di Gazebo parah bermasalah terutama saat jam sibuk. Ini sangat menghambat akses materi kuliah.,Tinggi,4,4,Gedung B
+Bioteknologi,2024,Jaringan,Internet kampus di Gedung B benar-benar bermasalah terutama saat jam sibuk. Ini sangat menghambat akses materi kuliah.,Tinggi,5,4,Kantin
+Biologi,2025,Jaringan,Koneksi internet di Kantin mendesak tidak stabil sehingga sulit akses LMS. Ini sangat menghambat akses materi kuliah.,Tinggi,5,5,Gedung B
+Bioteknologi,2022,Jaringan,Jangkauan jaringan di Perpustakaan sangat kurang luas dan sering tidak tersambung. Ini sangat menghambat akses materi kuliah.,Tinggi,5,4,Gazebo
+Teknik Geologi,2022,Akademik,Perubahan jadwal di Gedung D masih mendadak dan membuat mahasiswa bingung.,Rendah,1,1,Perpustakaan
+Teknik Geologi,2022,Akademik,Jadwal kuliah di Laboratorium masih bentrok sehingga mahasiswa sulit mengikuti kelas.,Rendah,2,2,Gazebo
+Ilmu Komputer,2022,Akademik,Perubahan jadwal di Gedung A kadang mendadak dan membuat mahasiswa bingung.,Rendah,1,2,Gedung D
+Statistika,2024,Akademik,Jadwal kuliah di Perpustakaan sering bentrok sehingga mahasiswa sulit mengikuti kelas.,Sedang,3,4,Gedung B
+Biologi,2025,Akademik,Perubahan jadwal di Gedung B sering mendadak dan membuat mahasiswa bingung.,Sedang,3,4,Gedung D
+Teknik Geologi,2022,Akademik,Perubahan jadwal di Kantin masih sering mendadak dan membuat mahasiswa bingung.,Sedang,4,4,Kantin
+Kimia,2024,Akademik,Sistem akademik di Gazebo masih sering menyulitkan saat KRS dan pengecekan nilai.,Sedang,4,4,Gedung D
+Biologi,2024,Akademik,Perubahan jadwal di Perpustakaan cukup mendadak dan membuat mahasiswa bingung.,Sedang,3,4,Perpustakaan
+Statistika,2023,Akademik,Pengumuman perkuliahan di Gazebo cukup terlambat sehingga banyak mahasiswa tidak siap.,Sedang,4,4,Gedung C
+Statistika,2025,Akademik,Sistem akademik di Gazebo sering menyulitkan saat KRS dan pengecekan nilai.,Sedang,3,3,Laboratorium
+Statistika,2022,Akademik,Jadwal kuliah di Gedung D benar-benar bentrok sehingga mahasiswa sulit mengikuti kelas.,Tinggi,5,4,Gedung C
+Kimia,2025,Akademik,Jadwal kuliah di Gedung C mendesak bentrok sehingga mahasiswa sulit mengikuti kelas.,Tinggi,5,5,Laboratorium
+Teknik Geologi,2022,Akademik,Sistem akademik di Perpustakaan mendesak menyulitkan saat KRS dan pengecekan nilai.,Tinggi,4,5,Kantin
+Teknik Pertambangan,2024,Akademik,Jadwal kuliah di Gedung C sangat bentrok sehingga mahasiswa sulit mengikuti kelas.,Tinggi,5,5,Gedung C
+Kimia,2024,Akademik,Pengumuman perkuliahan di Gedung D parah terlambat sehingga banyak mahasiswa tidak siap.,Tinggi,4,4,Gedung C
+Teknik Pertambangan,2025,Akademik,Pengumuman perkuliahan di Laboratorium parah terlambat sehingga banyak mahasiswa tidak siap.,Tinggi,4,5,Gazebo
+Teknik Geologi,2024,Akademik,Perubahan jadwal di Gedung D parah mendadak dan membuat mahasiswa bingung.,Tinggi,5,4,Kantin
+Bioteknologi,2022,Akademik,Jadwal kuliah di Gazebo mendesak bentrok sehingga mahasiswa sulit mengikuti kelas.,Tinggi,4,4,Gedung A
+Teknik Geologi,2025,Akademik,Sistem akademik di Kantin parah menyulitkan saat KRS dan pengecekan nilai.,Tinggi,4,5,Gedung C
+Bioteknologi,2022,Akademik,Pengumuman perkuliahan di Laboratorium sangat terlambat sehingga banyak mahasiswa tidak siap.,Tinggi,4,5,Gedung C
+Teknik Pertambangan,2025,Keuangan,Verifikasi pembayaran di Gedung D agak lambat sehingga menghambat administrasi kuliah.,Rendah,2,1,Laboratorium
+Teknik Pertambangan,2024,Keuangan,Proses pembayaran UKT di Kantin sedikit lama dan sering membuat mahasiswa menunggu.,Rendah,1,2,Gedung A
+Statistika,2022,Keuangan,Sistem keuangan di Gazebo agak sering error saat cek status pembayaran.,Rendah,2,2,Perpustakaan
+Teknik Pertambangan,2024,Keuangan,Proses pembayaran UKT di Gedung A masih sering lama dan sering membuat mahasiswa menunggu.,Sedang,3,4,Gedung D
+Ilmu Komputer,2024,Keuangan,Proses pembayaran UKT di Kantin cukup lama dan sering membuat mahasiswa menunggu.,Sedang,3,3,Laboratorium
+Ilmu Komputer,2023,Keuangan,Verifikasi pembayaran di Gedung D lumayan lambat sehingga menghambat administrasi kuliah.,Sedang,3,3,Gedung D
+Teknik Geologi,2024,Keuangan,Proses pembayaran UKT di Gedung A masih sering lama dan sering membuat mahasiswa menunggu.,Sedang,4,3,Gedung A
+Bioteknologi,2023,Keuangan,Verifikasi pembayaran di Gazebo masih sering lambat sehingga menghambat administrasi kuliah.,Sedang,3,3,Gedung D
+Teknik Pertambangan,2025,Keuangan,Informasi tagihan UKT di Gedung A sering belum jelas dan menyulitkan mahasiswa.,Sedang,3,3,Gedung B
+Statistika,2022,Keuangan,Sistem keuangan di Kantin mendesak sering error saat cek status pembayaran. Hal ini menghambat proses registrasi mahasiswa.,Tinggi,5,5,Gedung C
+Bioteknologi,2024,Keuangan,Sistem keuangan di Gedung C sangat sering error saat cek status pembayaran.,Tinggi,4,5,Gedung C
+Ilmu Komputer,2025,Keuangan,Informasi tagihan UKT di Gedung C benar-benar belum jelas dan menyulitkan mahasiswa.,Tinggi,4,5,Gedung C
+Ilmu Komputer,2023,Keuangan,Proses pembayaran UKT di Kantin mendesak lama dan sering membuat mahasiswa menunggu. Hal ini menghambat proses registrasi mahasiswa.,Tinggi,4,4,Gedung B
+Teknik Geologi,2025,Keuangan,Verifikasi pembayaran di Kantin parah lambat sehingga menghambat administrasi kuliah. Hal ini menghambat proses registrasi mahasiswa.,Tinggi,4,5,Gedung C
+Kimia,2023,Keuangan,Verifikasi pembayaran di Gedung C parah lambat sehingga menghambat administrasi kuliah. Hal ini menghambat proses registrasi mahasiswa.,Tinggi,4,4,Gedung A
+Kimia,2022,Keuangan,Verifikasi pembayaran di Gedung D benar-benar lambat sehingga menghambat administrasi kuliah.,Tinggi,5,4,Kantin
+Ilmu Komputer,2024,Keuangan,Verifikasi pembayaran di Gazebo parah lambat sehingga menghambat administrasi kuliah. Hal ini menghambat proses registrasi mahasiswa.,Tinggi,5,4,Laboratorium
+Biologi,2025,Keuangan,Proses pembayaran UKT di Laboratorium sangat lama dan sering membuat mahasiswa menunggu.,Tinggi,4,5,Laboratorium
+Statistika,2025,Keuangan,Sistem keuangan di Gedung A parah sering error saat cek status pembayaran.,Tinggi,5,5,Laboratorium
+Biologi,2022,Keuangan,Proses pembayaran UKT di Gedung A sangat lama dan sering membuat mahasiswa menunggu.,Tinggi,5,4,Gedung A
+Kimia,2022,Administrasi,Proses legalisasi berkas di Laboratorium masih masih manual dan memakan waktu.,Rendah,1,2,Gedung C
+Kimia,2024,Administrasi,Input data mahasiswa di Gedung A sedikit kurang cepat sehingga dokumen terlambat selesai.,Rendah,2,1,Gazebo
+Biologi,2022,Administrasi,Input data mahasiswa di Perpustakaan masih kurang cepat sehingga dokumen terlambat selesai.,Rendah,2,2,Gedung C
+Teknik Pertambangan,2024,Administrasi,Input data mahasiswa di Gedung C sedikit kurang cepat sehingga dokumen terlambat selesai.,Rendah,1,1,Kantin
+Teknik Pertambangan,2025,Administrasi,Input data mahasiswa di Kantin kadang kurang cepat sehingga dokumen terlambat selesai.,Rendah,2,2,Gazebo
+Statistika,2023,Administrasi,Antrian bagian administrasi di Gedung A lumayan panjang dan proses berkas jadi tertunda. Harap prosesnya bisa dipercepat.,Sedang,4,4,Gedung A
+Teknik Pertambangan,2024,Administrasi,Layanan administrasi di Kantin lumayan lambat saat pengurusan surat aktif kuliah.,Sedang,3,3,Perpustakaan
+Biologi,2022,Administrasi,Proses legalisasi berkas di Gedung C masih sering masih manual dan memakan waktu. Harap prosesnya bisa dipercepat.,Sedang,3,4,Gedung A
+Teknik Pertambangan,2025,Administrasi,Layanan administrasi di Perpustakaan sering lambat saat pengurusan surat aktif kuliah.,Sedang,4,3,Kantin
+Kimia,2024,Administrasi,Antrian bagian administrasi di Perpustakaan masih sering panjang dan proses berkas jadi tertunda. Harap prosesnya bisa dipercepat.,Sedang,4,4,Gedung A
+Teknik Pertambangan,2025,Administrasi,Input data mahasiswa di Gazebo lumayan kurang cepat sehingga dokumen terlambat selesai. Harap prosesnya bisa dipercepat.,Sedang,3,3,Perpustakaan
+Teknik Geologi,2023,Administrasi,Layanan administrasi di Gedung A lumayan lambat saat pengurusan surat aktif kuliah. Harap prosesnya bisa dipercepat.,Sedang,3,3,Gedung B
+Ilmu Komputer,2025,Administrasi,Input data mahasiswa di Gedung B parah kurang cepat sehingga dokumen terlambat selesai.,Tinggi,4,4,Laboratorium
+Statistika,2023,Administrasi,Layanan administrasi di Kantin parah lambat saat pengurusan surat aktif kuliah.,Tinggi,5,4,Gedung B
+Teknik Geologi,2024,Administrasi,Proses legalisasi berkas di Gedung D mendesak masih manual dan memakan waktu.,Tinggi,4,4,Gedung D
+Kimia,2024,Administrasi,Layanan administrasi di Gedung D benar-benar lambat saat pengurusan surat aktif kuliah.,Tinggi,5,5,Gedung D
+Ilmu Komputer,2022,Administrasi,Layanan administrasi di Perpustakaan sangat lambat saat pengurusan surat aktif kuliah.,Tinggi,4,5,Laboratorium
+Teknik Pertambangan,2023,Administrasi,Layanan administrasi di Gedung C sangat lambat saat pengurusan surat aktif kuliah.,Tinggi,4,5,Kantin
+Bioteknologi,2022,Administrasi,Input data mahasiswa di Gedung A benar-benar kurang cepat sehingga dokumen terlambat selesai.,Tinggi,5,4,Gazebo
+Teknik Geologi,2022,Administrasi,Proses legalisasi berkas di Perpustakaan mendesak masih manual dan memakan waktu.,Tinggi,4,5,Kantin
+Teknik Pertambangan,2023,Keamanan,Keamanan parkiran di Laboratorium masih perlu ditingkatkan karena motor sering tidak terpantau.,Rendah,1,2,Kantin
+Kimia,2022,Keamanan,CCTV di area Kantin sedikit kurang berfungsi sehingga pengawasan tidak maksimal.,Rendah,2,1,Gedung B
+Teknik Geologi,2023,Keamanan,CCTV di area Gedung B masih kurang berfungsi sehingga pengawasan tidak maksimal.,Rendah,1,2,Gedung A
+Bioteknologi,2025,Keamanan,Penerangan malam di Kantin sedikit kurang aman dan membuat mahasiswa khawatir.,Rendah,2,2,Gedung D
+Teknik Pertambangan,2025,Keamanan,Keamanan parkiran di Gedung C cukup perlu ditingkatkan karena motor sering tidak terpantau.,Sedang,4,4,Gedung A
+Kimia,2024,Keamanan,Keamanan parkiran di Gedung A cukup perlu ditingkatkan karena motor sering tidak terpantau.,Sedang,3,3,Perpustakaan
+Bioteknologi,2023,Keamanan,Penerangan malam di Gazebo sering kurang aman dan membuat mahasiswa khawatir.,Sedang,3,4,Gedung D
+Ilmu Komputer,2025,Keamanan,CCTV di area Gedung D sering kurang berfungsi sehingga pengawasan tidak maksimal.,Sedang,3,4,Gedung C
+Kimia,2025,Keamanan,Akses keluar masuk di Gedung D masih sering perlu diperketat karena rawan kehilangan barang.,Sedang,4,3,Gedung B
+Biologi,2023,Keamanan,CCTV di area Gazebo cukup kurang berfungsi sehingga pengawasan tidak maksimal.,Sedang,3,4,Perpustakaan
+Biologi,2024,Keamanan,Keamanan parkiran di Gazebo sangat perlu ditingkatkan karena motor sering tidak terpantau.,Tinggi,4,4,Perpustakaan
+Statistika,2024,Keamanan,Akses keluar masuk di Perpustakaan sangat perlu diperketat karena rawan kehilangan barang.,Tinggi,5,5,Kantin
+Teknik Pertambangan,2022,Keamanan,Akses keluar masuk di Kantin benar-benar perlu diperketat karena rawan kehilangan barang.,Tinggi,5,4,Laboratorium
+Teknik Geologi,2023,Keamanan,Akses keluar masuk di Gedung B mendesak perlu diperketat karena rawan kehilangan barang.,Tinggi,4,4,Gedung C
+Biologi,2024,Keamanan,Akses keluar masuk di Gedung D parah perlu diperketat karena rawan kehilangan barang.,Tinggi,5,4,Gedung B
+Kimia,2022,Keamanan,Penerangan malam di Gedung C sangat kurang aman dan membuat mahasiswa khawatir.,Tinggi,4,5,Gedung C
+Teknik Pertambangan,2025,Keamanan,Keamanan parkiran di Gedung A benar-benar perlu ditingkatkan karena motor sering tidak terpantau.,Tinggi,5,4,Perpustakaan
+Bioteknologi,2024,Keamanan,CCTV di area Gazebo sangat kurang berfungsi sehingga pengawasan tidak maksimal.,Tinggi,5,4,Gedung D
+Bioteknologi,2023,Keamanan,CCTV di area Kantin mendesak kurang berfungsi sehingga pengawasan tidak maksimal.,Tinggi,5,5,Laboratorium
+Bioteknologi,2022,Keamanan,Akses keluar masuk di Laboratorium parah perlu diperketat karena rawan kehilangan barang.,Tinggi,4,5,Perpustakaan
+Teknik Geologi,2024,Kebersihan,Sampah di area Gedung C agak menumpuk sehingga lingkungan jadi kurang nyaman.,Rendah,1,1,Gedung B
+Teknik Geologi,2023,Kebersihan,Wastafel di Gedung C masih sering kotor dan airnya kadang tidak mengalir.,Rendah,1,1,Kantin
+Biologi,2025,Kebersihan,Wastafel di Kantin masih sering kotor dan airnya kadang tidak mengalir.,Rendah,2,2,Gedung B
+Teknik Geologi,2025,Kebersihan,Toilet di Gazebo masih kotor dan perlu dibersihkan lebih sering.,Rendah,1,2,Gedung D
+Teknik Pertambangan,2023,Kebersihan,Wastafel di Perpustakaan kadang sering kotor dan airnya kadang tidak mengalir.,Rendah,1,2,Gedung D
+Biologi,2022,Kebersihan,Toilet di Perpustakaan masih sering kotor dan perlu dibersihkan lebih sering.,Sedang,3,4,Gazebo
+Bioteknologi,2022,Kebersihan,Toilet di Gedung B masih sering kotor dan perlu dibersihkan lebih sering.,Sedang,3,4,Gedung D
+Biologi,2024,Kebersihan,Wastafel di Perpustakaan masih sering sering kotor dan airnya kadang tidak mengalir.,Sedang,3,3,Gedung D
+Teknik Pertambangan,2024,Kebersihan,Lantai di Gedung B masih sering licin dan kebersihan ruang belum terjaga baik.,Sedang,4,3,Kantin
+Teknik Geologi,2024,Kebersihan,Lantai di Gedung C sering licin dan kebersihan ruang belum terjaga baik.,Sedang,4,4,Kantin
+Teknik Pertambangan,2025,Kebersihan,Toilet di Gedung A masih sering kotor dan perlu dibersihkan lebih sering.,Sedang,3,3,Gedung A
+Statistika,2025,Kebersihan,Lantai di Gedung A cukup licin dan kebersihan ruang belum terjaga baik.,Sedang,3,3,Gedung A
+Teknik Geologi,2024,Kebersihan,Toilet di Laboratorium benar-benar kotor dan perlu dibersihkan lebih sering.,Tinggi,4,5,Gedung D
+Teknik Pertambangan,2022,Kebersihan,Sampah di area Gedung C parah menumpuk sehingga lingkungan jadi kurang nyaman.,Tinggi,4,5,Gedung A
+Bioteknologi,2023,Kebersihan,Wastafel di Gedung C sangat sering kotor dan airnya kadang tidak mengalir. Kondisi ini sudah cukup mengganggu kenyamanan.,Tinggi,4,4,Gedung A
+Teknik Geologi,2022,Kebersihan,Lantai di Kantin benar-benar licin dan kebersihan ruang belum terjaga baik.,Tinggi,4,4,Gedung B
+Kimia,2024,Kebersihan,Lantai di Gedung D parah licin dan kebersihan ruang belum terjaga baik. Kondisi ini sudah cukup mengganggu kenyamanan.,Tinggi,4,4,Gedung D
+Kimia,2025,Kebersihan,Toilet di Gedung B parah kotor dan perlu dibersihkan lebih sering. Kondisi ini sudah cukup mengganggu kenyamanan.,Tinggi,4,5,Kantin
+Teknik Geologi,2022,Kebersihan,Sampah di area Gazebo parah menumpuk sehingga lingkungan jadi kurang nyaman. Kondisi ini sudah cukup mengganggu kenyamanan.,Tinggi,5,4,Gedung B
+Bioteknologi,2022,Kebersihan,Wastafel di Gazebo sangat sering kotor dan airnya kadang tidak mengalir.,Tinggi,4,4,Gedung B
