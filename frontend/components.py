@@ -230,7 +230,7 @@ def render_about():
 
                     <div class="member-card">
                         <div class="member-name">6. La Ode Alifatur Yakin</div>
-                        <div class="member-nim">F1G124___</div>
+                        <div class="member-nim">F1G124034</div>
                     </div>
                 </div>
             </div>
